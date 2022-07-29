@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM+Retrofit</string>
+    <string name="data1">data1</string>
+</resources>
